@@ -1,0 +1,12 @@
+Points in the angle plots:
+
+
+
+494,0.636 -- 596,33.69 : First wheel Climbing
+596,33.69 -- 742,33.69  : First wheel moving on the first step, second wheel moving
+742,33.69 -- 773,-33.69 : Second wheel Climbing and First wheel still moving on the first step
+773,-33.69 -- 794,-33.69 : IGNORE
+794,-33.69 -- 900,0 : Second wheel climbed the first step and the first wheel started climbing the second step
+900,0 -- 987,0 : Second wheel on the second step and the first wheel on the third step
+987,0 -- 1026,33.69 : The second wheel started climbing the second step and the First wheel moving on the third step
+1026,33.69 -- 1044,33.69 : IGNORE
